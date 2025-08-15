@@ -9,7 +9,7 @@ Llama-powered terminal AI agent with dual-mode inference: cloud (Together API, C
 
 Built in C++ for speed, portability, and local-first control.
 
-**Llamaware** Fast, memory-aware CLI for macOS (Linux/Windows in progress).
+**Llamaware** Fast, memory-aware CLI for macOS, Linux, Windows.
 
 **Features**
 
