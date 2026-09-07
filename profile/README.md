@@ -48,21 +48,21 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-07 | @github-actions[bot] | pushed commits ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/330c8944394d46112eab8dd6c336ff1836fdaa10...2f9b1fa6f9244634ea708850c4c52074cbcaaf92)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-09-07 | @github-actions[bot] | pushed commits ([diff](https://github.com/coccinella-labs/.github/compare/58238b4c0cd856bf40c2307dda552737b749487e...8fe358f2d139b196ce8f7788c5f32f9821c58d53)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-07-21 | @dependabot[bot] | closed PR [#60](https://github.com/coccinella-labs/hautofix/pull/60) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/hautofix/pull/60) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | DeleteEvent | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-07-09 | @dependabot[bot] | closed PR [#59](https://github.com/coccinella-labs/hautofix/pull/59) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/hautofix/pull/59) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | labeled PR [#61](https://github.com/coccinella-labs/hautofix/pull/61) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | CreateEvent | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | labeled PR [#61](https://github.com/coccinella-labs/hautofix/pull/61) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | labeled PR [#61](https://github.com/coccinella-labs/hautofix/pull/61) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | labeled PR [#61](https://github.com/coccinella-labs/hautofix/pull/61) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @dependabot[bot] | opened PR [#61](https://github.com/coccinella-labs/hautofix/pull/61) | [coccinella-labs/hautofix](https://github.com/coccinella-labs/hautofix) |
-| 2026-09-06 | @github-actions[bot] | pushed commits ([diff](https://github.com/coccinella-labs/.github/compare/ade06f9b639e57ab75209745c97b482d21fae560...58238b4c0cd856bf40c2307dda552737b749487e)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-06 | @github-actions[bot] | published a release nightly-20260906-2122-41c3721 ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20260906-2122-41c3721)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-09-07 | @dependabot[bot] | DeleteEvent | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-07-28 | @dependabot[bot] | closed PR [#11](https://github.com/coccinella-labs/glimpse/pull/11) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/glimpse/pull/11) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-06-13 | @dependabot[bot] | closed PR [#10](https://github.com/coccinella-labs/glimpse/pull/10) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/glimpse/pull/10) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | labeled PR [#12](https://github.com/coccinella-labs/glimpse/pull/12) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | labeled PR [#12](https://github.com/coccinella-labs/glimpse/pull/12) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | CreateEvent | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | labeled PR [#12](https://github.com/coccinella-labs/glimpse/pull/12) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | labeled PR [#12](https://github.com/coccinella-labs/glimpse/pull/12) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @dependabot[bot] | opened PR [#12](https://github.com/coccinella-labs/glimpse/pull/12) | [coccinella-labs/glimpse](https://github.com/coccinella-labs/glimpse) |
+| 2026-09-07 | @bniladridas | DeleteEvent | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-07 | @bniladridas | merged PR [#12](https://github.com/coccinella-labs/applekernel/pull/12) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-07 | @bniladridas | pushed commits ([diff](https://github.com/coccinella-labs/applekernel/compare/e1f0442e52c10f2990614e89316cbc3b394d93ae...7bdc39994daf272d423f8e380bb11cffac2e05eb)) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-07 | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/applekernel/pull/12) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-07T05:36:02.023Z • IST: 7/9/2026, 11:06:02 (11:06:02 am)_
+_Last updated: 2026-09-07T11:21:45.038Z • IST: 7/9/2026, 16:51:45 (4:51:45 pm)_
 </details>
